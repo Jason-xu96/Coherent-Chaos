@@ -9,14 +9,8 @@ Coherent Chaos is a web-based hexagonal checkers-like board game. 2 players comp
 
 # Access
 
-## Development Server
+## Server
 http://18.191.224.215:5000/
-
-## Production Server
-http://52.14.173.109:5000/
-
-## Feature Branch Server
-http://3.17.203.100:5000/
 
 # Setup
 
