@@ -1,11 +1,11 @@
 # Note
 
-This repo is duplicated from `ZackHJ/comp4350-project` and is intended as an extreme fork of the project. Ideally, this project will develop well beyond the scope of the university assignment it initially was.
+This repo is duplicated from `ZackHJ/comp4350-project` and is intended as an extreme fork of the project. Ideally, this project will develop well beyond the scope of the university assignment it initially was.  
 The mobile app will not be maintained in this fork.
 
 # About
 
-Coherent Chaos is a hexagonal checkers-like board game. 2 players compete to capture each others' pieces while the hexagonal game board shrinks.
+Coherent Chaos is a web-based hexagonal checkers-like board game. 2 players compete to capture each others' pieces while the hexagonal game board shrinks.
 
 # Access
 
